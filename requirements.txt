@@ -1,7 +1,6 @@
 streamlit
+streamlit-option-menu
 pandas
 matplotlib
+sqlite3 
 fpdf
-openpyxl
-streamlit_option_menu
-sqlite3
