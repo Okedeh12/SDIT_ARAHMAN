@@ -3,3 +3,4 @@ pandas
 matplotlib
 fpdf
 openpyxl
+streamlit_option_menu
